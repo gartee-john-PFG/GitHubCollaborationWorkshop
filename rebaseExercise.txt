@@ -1,0 +1,3 @@
+rebaseExercise line 1 rebase 1
+rebaseExercise line 2 rebase 1
+rebaseExercise line 3 rebase 1

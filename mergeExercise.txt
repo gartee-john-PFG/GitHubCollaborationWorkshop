@@ -1,0 +1,3 @@
+mergeExercise line 1 merge 1
+mergeExercise line 2 merge 1
+mergeExercise line 3 merge 1
