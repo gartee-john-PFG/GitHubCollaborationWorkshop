@@ -1,3 +1,0 @@
-commitExercise line 1 commit 1
-commitExercise line 2 commit 1
-commitExercise line 3 commit 1
