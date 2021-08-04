@@ -1,2 +1,0 @@
-line 1 branch isgw-1234
-line 2 branch isgw-1234
