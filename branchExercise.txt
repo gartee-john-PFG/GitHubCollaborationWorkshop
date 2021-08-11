@@ -1,2 +1,6 @@
 line 1 branch loebig commit 1
 line 2 branch loebig commit 1
+line 1 branch amos commit 1
+line 2 branch amos commit 1
+line one branch gartee commit one
+line 2 branch gartee commit 1
