@@ -1,0 +1,2 @@
+line 1 branch amos commit 1
+line 2 branch amos commit 1
