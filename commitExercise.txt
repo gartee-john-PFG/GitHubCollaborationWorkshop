@@ -1,0 +1,3 @@
+barrick line 1 commit 1
+barrick line 2 commit 1
+barrick line 3 commit 1
