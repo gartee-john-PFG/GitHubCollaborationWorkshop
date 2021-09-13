@@ -61,3 +61,4 @@ Repo for GitHub - Collaborating with Your Team Workshop
     *   requires high level of automated testing and feature tags
 
 ## Exercise 3 - When and When Not to Rebase  
+
