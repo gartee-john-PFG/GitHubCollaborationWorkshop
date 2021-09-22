@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-
-=======
 line 1 branch gartee
 line 2 branch gartee
->>>>>>> 6a04cd61937ce76338826e35c769b6d14aa15b83
