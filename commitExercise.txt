@@ -1,3 +1,6 @@
+Line 1 branch davis first commit
+Line 2 branch davis first commit
+Line 3 branch davis second commit
 line 1 branch wentzel first commit
 line 2 branch wentzel first commit
 line 3 branch wentzel second commit
