@@ -1,6 +1,0 @@
-line 1 branch fisher first commit
-line 2 branch fisher first commit
-line 3 branch fisher second commit
-line 1 branch gartee first commit
-line 2 branch gartee first commit
-line 3 branch gartee second commit
