@@ -1,2 +1,3 @@
 line 1 branch fisher first commit
-line 2 branch fisher fisher commit
+line 2 branch fisher first commit
+line 3 branch fisher second commit
