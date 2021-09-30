@@ -1,3 +1,6 @@
 line 1 branch wentzel first commit
 line 2 branch wentzel first commit
 line 3 branch wentzel second commit
+Line 1 brach kitt first commit
+Line 2 brach kitt First commit
+Line 3 brach kitt first commit
