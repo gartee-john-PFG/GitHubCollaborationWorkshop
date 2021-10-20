@@ -1,2 +1,2 @@
 line 1 branch gartee first commit
-line 2 branch gartee first commit
+line 2 Branch gartee first commit
