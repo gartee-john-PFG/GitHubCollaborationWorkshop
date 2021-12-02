@@ -6,6 +6,7 @@ attendee 2: please insert [branch] [last name] first commit after this line
 attendee 2: Seley Seley Eric first commit after this line
 >>>>>>> main
 attendee 3: please insert [branch] [last name] first commit after this line
+gramlich gramlich first commit
 attendee 4: please insert [branch] [last name] first commit after this line
 Hodges Hodges First Commit
 attendee 5: please insert [branch] [last name] first commit after this line
