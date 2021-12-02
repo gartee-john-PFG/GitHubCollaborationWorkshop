@@ -1,5 +1,5 @@
 attendee 1: please insert [branch] [last name] first commit after this line
-attendee 2: please insert [branch] [last name] first commit after this line
+attendee 2: Seley Seley Eric first commit after this line
 attendee 3: please insert [branch] [last name] first commit after this line
 attendee 4: please insert [branch] [last name] first commit after this line
 attendee 5: please insert [branch] [last name] first commit after this line
