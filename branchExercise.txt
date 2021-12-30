@@ -1,5 +1,5 @@
 attendee 1: please insert [branch] [last name] first commit after this line
-This is GitHub workshop with Parth and John
+This is GitHub workshop with Parth and John 
 reilly reilly first commit
 attendee 2: please insert [branch] [last name] first commit after this line
 attendee 2: Seley Seley Eric first commit after this line
@@ -12,4 +12,4 @@ carpenter carpenter first commit
 attendee 6: please insert [branch] [last name] first commit after this line
 attendee 7: please insert [branch] [last name] first commit after this line
 attendee 8: please insert [branch] [last name] first commit after this line
-These are Acharya changes
+these are gartee and Acharya changes
