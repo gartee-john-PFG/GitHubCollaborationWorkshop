@@ -11,4 +11,4 @@ carpenter carpenter first commit
 attendee 6: please insert [branch] [last name] first commit after this line
 attendee 7: please insert [branch] [last name] first commit after this line
 attendee 8: please insert [branch] [last name] first commit after this line
-gartee gartee first commit
+gartee gartee first commit on Thursday
