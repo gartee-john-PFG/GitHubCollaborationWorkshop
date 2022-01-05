@@ -1,5 +1,5 @@
 attendee 1: please insert [branch] [last name] first commit after this line
-Here's Eric's change - branch hyde first commit gartee
+Here's Eric's change - branch hyde first commit hyde and gartee
 This is GitHub workshop with Parth and John 
 reilly reilly first commit
 attendee 2: please insert [branch] [last name] first commit after this line
