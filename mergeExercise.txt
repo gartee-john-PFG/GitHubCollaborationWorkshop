@@ -1,14 +1,1 @@
-attendee 1: please insert [branch] [last name] first commit after this line
-reilly reilly first commit
-attendee 2: please insert [branch] [last name] first commit after this line
-attendee 2: Seley Seley Eric first commit after this line
-attendee 3: please insert [branch] [last name] first commit after this line
-gramlich gramlich first commit
-attendee 4: please insert [branch] [last name] first commit after this line
-Hodges Hodges First Commit
-attendee 5: please insert [branch] [last name] first commit after this line
-carpenter carpenter first commit
-attendee 6: please insert [branch] [last name] first commit after this line
-attendee 7: please insert [branch] [last name] first commit after this line
-attendee 8: please insert [branch] [last name] first commit after this line
-Gartee Gartee first commit
+
